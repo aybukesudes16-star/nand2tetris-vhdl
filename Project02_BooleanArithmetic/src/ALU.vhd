@@ -1,0 +1,6 @@
+--definition of ALU 
+--if (zx == 1) set x = 0
+--if (nx == 1) set x = !x
+--if (f == 1) set out = x + y else set out = x & y
+--if (no == 1) set out = !out
+--if (out == 0) set zr = 1 ve if (out < 0) set ng = 1
